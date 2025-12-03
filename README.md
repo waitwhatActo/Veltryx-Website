@@ -1,6 +1,6 @@
 # Welcome to Veltryx
 
-## Veltryx: Home of the tech organization based in Beautiful British Columbia, Canada.
+## Home of the tech organization based in Beautiful British Columbia, Canada.
 
 This is the website of Veltryx
 
